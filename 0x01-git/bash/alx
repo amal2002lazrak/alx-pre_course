@@ -1,1 +1,2 @@
-eco ALX
+#!/bin/bash
+echo "ALX School"
